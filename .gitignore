@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+venv/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
